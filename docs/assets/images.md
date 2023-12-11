@@ -1,1 +1,1 @@
-![Picture](.docs/assets/IMG_5725.jpeg)
+![Picture](.IMG_5725.jpeg)
