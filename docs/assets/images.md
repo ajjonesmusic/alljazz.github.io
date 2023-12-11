@@ -1,1 +1,1 @@
-![Picture](./assets/IMG_5725.jeg)
+![Picture](.docs/assets/IMG_5725.jeg)
